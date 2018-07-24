@@ -6,3 +6,4 @@ def say_hello(your_name)
 end
 
 say_hello("Abby")
+say_hello("Connie")
